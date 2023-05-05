@@ -1,0 +1,3 @@
+C:/Users/akiev/CLionProjects/OOP_library/cmake-build-debug/CMakeFiles/OOP_library.dir
+C:/Users/akiev/CLionProjects/OOP_library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/akiev/CLionProjects/OOP_library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
